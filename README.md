@@ -13,7 +13,7 @@ This is a simple project meant to teach me what is React , how does it work and 
 
 ### Assignment details
 
-[The basics](https://github.com/becodeorg/ANT-Giertz-4.30/tree/master/3.The-Mountain/React/0.The-Basics](https://github.com/becodeorg/ANT-Giertz-4.30/tree/master/3.The-Mountain/React/0.The-Basics)
+[The basics](#https://github.com/becodeorg/ANT-Giertz-4.30/tree/master/3.The-Mountain/React/0.The-Basics](https://github.com/becodeorg/ANT-Giertz-4.30/tree/master/3.The-Mountain/React/0.The-Basics)
 
 [Getting Started](https://github.com/becodeorg/ANT-Giertz-4.30/tree/master/3.The-Mountain/React/1.Getting-Started](https://github.com/becodeorg/ANT-Giertz-4.30/tree/master/3.The-Mountain/React/1.Getting-Started)
 
