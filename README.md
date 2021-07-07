@@ -1,18 +1,17 @@
 # Todo App
 ![](img/react-todo-app.png)
 
-### Description
+## Description
 
 This is a simple project meant to teach me what is React , how does it work and how can I use it to create web applications.
 
-### Features
+## Features
 
 - [x]  adds new tasks to the list
 - [x]  working checkbox that indicated when the task was completed
 - [x]  added tasks can be deleted
 
-### Assignment details'
-
+## Assignment details
 
 ### The basics
 https://github.com/becodeorg/ANT-Giertz-4.30/tree/master/3.The-Mountain/React/0.The-Basics](https://github.com/becodeorg/ANT-Giertz-4.30/tree/master/3.The-Mountain/React/0.The-Basics
@@ -23,7 +22,7 @@ https://github.com/becodeorg/ANT-Giertz-4.30/tree/master/3.The-Mountain/React/1.
 ### State 
 https://github.com/becodeorg/ANT-Giertz-4.30/tree/master/3.The-Mountain/React/2.State](https://github.com/becodeorg/ANT-Giertz-4.30/tree/master/3.The-Mountain/React/2.State
 
-### Create React App:
+## Create React App:
 
 ```bash
 npx create-react-app my-app
@@ -34,7 +33,7 @@ npm start
 npx create-react-app .
 ```
 
-### Documentation
+## Documentation
 
 ### JSX
 https://reactjs.org/docs/introducing-jsx.html](https://reactjs.org/docs/introducing-jsx.html
